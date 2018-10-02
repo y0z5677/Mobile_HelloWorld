@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Mobile_HelloWorld</string>
+    <string name="hello_world_text">0</string>
+    <string name="button1">Toast</string>
+    <string name="button2">Count</string>
+    <string name="button3">Random</string>
+    <string name="random_heading">Random heading</string>
 </resources>
